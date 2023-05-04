@@ -2,9 +2,6 @@
 
 #  TP 0  hola.mundo
 
-#CURSO:K1051
-#Año:2023
-
 +Curso:k1051
 +Año:2023
 +Legajo:2047214
